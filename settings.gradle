@@ -1,0 +1,15 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "AndroidDiGuide-Dagger2-Hilt-koin"
+include ':app'
+include ':chaper01'
+include ':chapter02'
+include ':chapter03'
+include ':chapter04'
+include ':chapter05'
