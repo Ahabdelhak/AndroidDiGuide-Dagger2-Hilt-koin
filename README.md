@@ -10,3 +10,10 @@ Repo Representing practice for DI (Manually - Pure - Dagger - Hilt - Koin )
     4- Field Injection, Method Injection.
     5- @Binds , @Provide
         
+        
+Reference :
+
+[Android dependency injection](https://developer.android.com/training/dependency-injection/manual) 
+
+[Android Effective Dagger](https://leanpub.com/android_effective_dagger) 
+
