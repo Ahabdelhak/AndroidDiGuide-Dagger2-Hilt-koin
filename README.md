@@ -20,3 +20,4 @@ Reference :
 
 [Android Dagger Hilt](https://dagger.dev/hilt/)
 
+[Android Dagger&Hilt Annotations](https://developer.android.com/images/training/dependency-injection/hilt-annotations.pdf)
