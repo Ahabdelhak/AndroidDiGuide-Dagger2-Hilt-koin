@@ -9,11 +9,14 @@ Repo Representing practice for DI (Manually - Pure - Dagger - Hilt - Koin )
     3- Create a simple component and module
     4- Field Injection, Method Injection.
     5- @Binds , @Provide
+    6- Dagger-hilt demo
         
         
 Reference :
 
 [Android dependency injection](https://developer.android.com/training/dependency-injection/manual) 
 
-[Android Effective Dagger](https://leanpub.com/android_effective_dagger) 
+[Android Effective Dagger](https://leanpub.com/android_effective_dagger)
+
+[Android Dagger Hilt](https://dagger.dev/hilt/)
 
