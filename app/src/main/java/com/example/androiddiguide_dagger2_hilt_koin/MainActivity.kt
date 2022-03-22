@@ -9,12 +9,13 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         /*
-        * Repo Contains 5 modules for DI and Dagger Implementation
+        * Repo Contains 6 modules for DI and Dagger Implementation
         * 1- IoC containers, create dependencies manually (without any Frameworks or additional libraries)
         * 2-pure Dependency Injection , App Container
         * 3-create a simple component and module
         * 4-Field Injection, Method Injection.
         * 5-@Binds , @Provide
+        * 6-Dagger-hilt demo
         * */
 
 
@@ -49,6 +50,17 @@ class MainActivity : AppCompatActivity() {
             ● Constructor Injection
             ● Filed Injection
             ● Method Injection
+        * */
+
+
+        /*
+        * Benefits of using Dagger
+        * Dagger frees you from writing tedious and error-prone boilerplate code by:
+          * Generating the AppContainer code (application graph) that you manually implemented in the manual DI section.
+          * Creating factories for the classes available in the application graph. This is how dependencies are satisfied internally.
+          * Deciding whether to reuse a dependency or create a new instance through the use of scopes.
+          * Creating containers for specific flows as you did with the login flow in the previous section using Dagger subcomponents. This improves your app's performance by releasing objects in memory when they're no longer needed.
+        *
         * */
     }
 }

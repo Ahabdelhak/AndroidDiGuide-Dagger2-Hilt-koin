@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="chaper01/src/main/res/layout/activity_main.xml" value="0.23550724637681159" />
+        <entry key="chapter06-daggerhilt/src/main/res/layout/activity_main.xml" value="0.2318840579710145" />
+        <entry key="chapter06-daggerhilt/src/main/res/layout/item_layout.xml" value="0.2318840579710145" />
       </map>
     </option>
   </component>
